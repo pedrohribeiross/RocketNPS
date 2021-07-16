@@ -37,7 +37,7 @@ $ git clone https://github.com/pedrohribeiross/api.git
 $ cd api
 
 # Instalar as dependências.
-$ yarn install
+$ yarn
 
 # Rodar o servidor.
 $ yarn dev
